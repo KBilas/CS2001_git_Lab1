@@ -64,3 +64,8 @@ Student ID | Movie | Year of Release
 1945582 | The Social Network | 2010
 1945582 | Thunderbirds | 2004
 1920389 | The Wolf of Wallstreet | 2013
+1917872 | The Dark Knight | 2008
+1917872 | Inception | 2010
+1917872 | The Shawshank Redemption | 1994
+1917872 | Star Wars: Episode V - The Empire Strikes Back | 1980
+1917872 | The Matrix | 1999
